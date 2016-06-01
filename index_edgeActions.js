@@ -41,7 +41,7 @@ var gratHeaders = [
 
 var questionsABCText = [
 [
-"!Spitomon 10 mg tablet has a score mark and it may be divided (&frac12;  tablet = 5 mg)",
+"!Spitomin 10 mg tablet has a score mark and it may be divided (&frac12;  tablet = 5 mg)",
 "Advice the patient to grind 10 mg tablet in a mortar and take a half of the powder thus produced",
 "The 5 mg dose cannot be obtained because only 10 mg Spitomin tablets are commercially available"],
 [
